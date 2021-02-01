@@ -1,0 +1,12 @@
+JDBC #1 - Pobieranie informacji o państwach, miastach i językach
+Treść zadania
+
+Ćwiczenia bazują na bazie danych world którą można pobrać na stronie: https://dev.mysql.com/doc/index-other.html. Instrukcję instalacji bazy znajdziesz tutaj.
+
+    Napisz program, który z tabeli city pobierze informację o polskich miastach i wyświetli je w konsoli jeden pod drugim
+    Dodaj funkcjonalność, która wczyta od użytkownika kod kraju i na jego podstawie wyświetli wszystkie miasta z danego kraju pobrane z bazy danych.
+    Napisz również funkcjonalność, która pobierze od użytkownika język i wyświetli wszystkie kraje w których on funkcjonuje, wraz z informacją o tym, czy język jest oficjalny oraz z procentem posługujących się nim osób.
+
+https://bootcamp.javastart.pl/konto/cwiczenie/1353
+
+http://git.javastart.pl/rozwiazania/jdbc-1-53124
